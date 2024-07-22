@@ -1,6 +1,6 @@
 # Agent CLI Application
 
-This is a command-line interface (CLI) application that allows users to interact with an AI agent. The agent can be configured with a specific field of expertise, role, and model for answering questions.
+This is a command-line interface (CLI) application that allows users to interact with an AI agent. The agent can be configured with a specific field of expertise, role, and model for answering questions. This tool leverages Langchain v0.2 and Langgraph libraries for its functionality.
 
 ## Features
 
